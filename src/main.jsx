@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { Analytics } from "@vercel/analytics/next"
+import { Analytics } from "@vercel/analytics/react"
 import { createRoot } from "react-dom/client";
 import {
   ArrowUpRight, Github, Linkedin, Mail, Download, Terminal,
