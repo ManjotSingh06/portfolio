@@ -1,25 +1,30 @@
-# Manjot Singh — Cyber/Linux Portfolio
+# Manjot Cyber Portfolio
 
-Single-page React + Vite portfolio redesigned around cybersecurity, Linux systems and software development.
+A modern single-page portfolio built with React and Vite, designed for a cybersecurity, Linux, and software development profile.
 
-## Run locally
+## Overview
 
-```bash
-npm install
-npm run dev
-```
+This project showcases:
+- technical skills in Linux, networking, security, and development
+- project highlights with GitHub links
+- experience and profile sections for recruiters and collaborators
+- a cyber-themed terminal-style UI that matches the personal brand
 
-## Build
+## Tech Stack
 
-```bash
-npm run build
-```
+- React
+- Vite
+- Lucide React
+- CSS
 
-## Customize
 
-- Update links/contact details in `src/main.jsx`.
-- Put your resume at `public/resume.pdf` to enable the Resume button.
-- Replace project links/descriptions with the latest live deployments.
-- Keep the single-page anchor structure for smooth navigation.
 
-The design intentionally combines a terminal/Linux visual language with conventional portfolio sections so recruiters can quickly scan both security/system interests and development experience.
+The app will start in development mode and be available in your browser.
+
+
+
+## Notes
+
+- Main content is in `src/main.jsx`.
+- Styling is in `src/styles.css`.
+- Add or update the resume file in `public/` if you want the Resume button to work.
